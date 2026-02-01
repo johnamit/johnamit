@@ -16,7 +16,7 @@ Outside of ML research, I’m a fan of Basketball, MotoGP, video games, and hiki
 
 # Featured Projects
 - [**MotoReID**](https://github.com/johnamit/motoreid) <br> An end-to-end computer vision pipeline utilizing YOLOv8 and DINOv3 (Vision Transformer) embeddings for high-speed sports re-identification. The system solves for persistent identity tracking across extreme occlusions and motion blur.
-- [**SiT FAF Generation**](https://github.com/johnamit/sit-faf-generate-edit) <br> A generative modeling framework for synthetic medical image synthesis, inversion, and semantic editing using Scalable Interpolant Transformers (SiT). It enables conditional generation based on genetic mutations and patient age.
+- [**SiT FAF Generation**](https://github.com/johnamit/sit-faf-generate-edit) <br> A generative modeling framework for synthetic medical image synthesis, inversion, and semantic editing using Scalable Interpolant Transformers (SiT). It enables conditional generation based on genetic mutations laterality, and patient age.
 - [**Semantic Context Tokens**](https://drive.google.com/file/d/1f_bSPjfhiGOoaf3Gu1gnbcc2W1wNWSec/view?usp=drive_link) <br> Developed a coarse-to-fine tokenization pipeline integrating semantic tokens with subword units to enhance LLM narrative coherence. Inspired by Meta’s Large Concept Model, this approach yielded significant gains on the TinyStories benchmark.
 - [**Steven Medical Copilot**](https://github.com/johnamit/steven-elevenlabsxa16z-hackathon) <br> A medical voice assistant prototyped for the ElevenLabs x a16z AI Agent Hackathon. It leverages NLP and conversational AI to automate clinical documentation and referral letter composition.
 
