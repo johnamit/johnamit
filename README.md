@@ -12,6 +12,8 @@ I am fascinated by **Computer Vision**, **Generative Models**, and **Self-Superv
 
 Outside of ML research, I’m a fan of Basketball, MotoGP, video games, and hiking. These passions often serve as the testing grounds for my personal projects.
 
+<br>
+
 # Featured Projects
 - [**MotoReID**](https://github.com/johnamit/motoreid) <br> An end-to-end computer vision pipeline utilizing YOLOv8 and DINOv3 (Vision Transformer) embeddings for high-speed sports re-identification. The system solves for persistent identity tracking across extreme occlusions and motion blur.
 - [**SiT FAF Generation**](https://github.com/johnamit/sit-faf-generate-edit) <br> A generative modeling framework for synthetic medical image synthesis, inversion, and semantic editing using Scalable Interpolant Transformers (SiT). It enables conditional generation based on genetic mutations and patient age.
