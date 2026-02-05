@@ -10,7 +10,7 @@ Following an **MSc in Data Science and Machine Learning** at [**@UCL**](https://
 
 I am fascinated by **Computer Vision**, **Generative Models**, and **Self-Supervised Learning**. I am particularly interested in **Synthetic Data** and the emerging field of **World Models** for real-world applications, ranging from autonomous systems to Embodied AI.
 
-Outside of ML research, I’m a fan of Basketball, MotoGP, video games, and hiking. These passions often serve as the testing grounds for my personal projects.
+Outside of ML research, I enjoy all things Basketball, MotoGP, video games, and hiking. These passions often serve as the testing grounds for my personal projects.
 
 <br>
 
