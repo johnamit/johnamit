@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black"/>](https://huggingface.co/johnamit)
 
-I'm a **Machine Learning Researcher and Engineer** based in London.
+I'm a **Machine Learning Engineer and Researcher** based in London.
 
 Following an **MSc in Data Science and Machine Learning** at [**@UCL**](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-and-machine-learning-msc), I joined [**@Pontikos Lab**](https://github.com/pontikos-lab) as a **Research Assistant**, where I focus on Computer Vision and Synthetic Data Generation. Previously, I spent three years in **Data Science within Wealth Management** and interned at [**@Imagination Technologies**](https://github.com/imaginationtech)
 
