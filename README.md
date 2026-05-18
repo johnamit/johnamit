@@ -27,6 +27,6 @@ Other notable projects include [**Contra-CTGAN**](https://github.com/johnamit/co
 <br>
 
 # Publications
-- [An Investigative Study of Methods for Retinal Image Registration](https://www.medrxiv.org/content/10.64898/2025.12.01.25341352v1) <br> Secondary author; developed the pixel and non-pixel based evaluation frameworks for retinal registration benchmarking. Repo [here](https://github.com/johnamit/image_Registration).
+- [An Investigative Study of Methods for Retinal Image Registration](https://www.medrxiv.org/content/10.64898/2025.12.01.25341352v1) <br> Contributed as a **Secondary author** by developing the pixel and non-pixel based evaluation frameworks for systematic retinal registration benchmarking. Repo [here](https://github.com/johnamit/image_Registration).
 
 <br>
