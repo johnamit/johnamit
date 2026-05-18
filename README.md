@@ -20,6 +20,7 @@ Outside of ML research, I enjoy all things Basketball, MotoGP, video games, and 
 - [**Semantic Context Tokens**](https://github.com/johnamit/semantic-context-tokens) <br> Developed a coarse-to-fine tokenization pipeline integrating semantic tokens with subword units to enhance LLM narrative coherence. Inspired by Meta’s Large Concept Model, this approach yielded significant gains on the TinyStories benchmark.
 - [**Steven Medical Copilot**](https://github.com/johnamit/steven-elevenlabsxa16z-hackathon) <br> A medical voice assistant prototyped for the ElevenLabs x a16z AI Agent Hackathon. It leverages NLP and conversational AI to automate clinical documentation and referral letter composition.
 - [**NextQuest**](https://github.com/johnamit/nextquest) <br> A SteamAPI-powered game recommendation app that learns user taste from liked games and returns highly similar suggestions with game profile data. Uses a multimodal retrieval pipeline with FAISS indexing. Live demo [here](https://nextquest-ochre.vercel.app/).
+- [**MotionBench**](https://github.com/johnamit/motionbench) <br> A real-time pose-based exercise recognition system that classifies movements, counts reps with a deterministic state-machine method, and provides live form similarity scoring using class centroids.
 
 Other notable projects include [**Contra-CTGAN**](https://github.com/johnamit/contra-ctgan) and [**WeakTR Refinery**](https://github.com/johnamit/weaktr-refinery).
 
