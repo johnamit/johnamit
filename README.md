@@ -25,4 +25,6 @@ Outside of ML research, I enjoy all things Basketball, MotoGP, video games, and 
 
 Other notable projects include [**Contra-CTGAN**](https://github.com/johnamit/contra-ctgan) and [**WeakTR Refinery**](https://github.com/johnamit/weaktr-refinery).
 
+I also worked on the evaluation framework for [**An Investigative study of methods for Retinal Image Registration**](https://www.medrxiv.org/content/10.64898/2025.12.01.25341352v1). The code can be found [here](https://github.com/johnamit/image_Registration).
+
 <br>
