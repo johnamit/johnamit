@@ -22,9 +22,11 @@ Outside of ML research, I enjoy all things Basketball, MotoGP, video games, and 
 - [**MotionBench**](https://github.com/johnamit/motionbench) <br> A real-time pose-based exercise recognition system that classifies movements, counts reps with a deterministic state-machine method, and provides live form similarity scoring using class centroids.
 - [**Steven Medical Copilot**](https://github.com/johnamit/steven-elevenlabsxa16z-hackathon) <br> A medical voice assistant prototyped for the ElevenLabs x a16z AI Agent Hackathon. It leverages NLP and conversational AI to automate clinical documentation and referral letter composition.
 
-
 Other notable projects include [**Contra-CTGAN**](https://github.com/johnamit/contra-ctgan) and [**WeakTR Refinery**](https://github.com/johnamit/weaktr-refinery).
 
-I also worked on the evaluation framework for [**An Investigative study of methods for Retinal Image Registration**](https://www.medrxiv.org/content/10.64898/2025.12.01.25341352v1). The code can be found [here](https://github.com/johnamit/image_Registration).
+<br>
+
+# Publications
+Secondary author on An Investigative Study of Methods for Retinal Image Registration (https://www.medrxiv.org/content/10.64898/2025.12.01.25341352v1), where I developed the pixel and non-pixel evaluation frameworks for registration benchmarking. Repo here (https://github.com/johnamit/image_Registration).
 
 <br>
